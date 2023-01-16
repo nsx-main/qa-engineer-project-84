@@ -1,0 +1,14 @@
+---
+name: Nikita Sidelnikov # ваше имя
+job: Frontend developer
+level: senior
+email: nsxmain@gmail.com
+description: |
+  В it сфере более 5 лет. Все это время работал фронтенд разработчиком на Vue.js.
+  Решил освоить QA, и вот я здесь.
+skills:
+  - HTML, CSS, JavaScript, Git, Vue.js, Nuxt.js, SASS
+  - Unit тесты
+  - Проведение код ревью, менторство
+  - Linux
+  - слепая печать
