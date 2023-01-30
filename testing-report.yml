@@ -32,9 +32,5 @@
   status: pass
 
 - summary: |
-    Просмотр содержимого корзины.
-  status: pass
-
-- summary: |
     Проверка наличия мобильной версии сайта.
   status: fail
